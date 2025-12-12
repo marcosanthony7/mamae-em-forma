@@ -1,0 +1,87 @@
+Crie um aplicativo web gamificado, responsivo e otimizado para dispositivos móveis, direcionado a mães no pós-parto. O objetivo do app é entregar um Plano de Recuperação e Emagrecimento em 30 dias. Apesar de particularidades como: tipo de parto (normal, cesária), maior desafio pessoal (barriga flácida, dor nas costas, etc.), grau de Diástase Abdominal e tempo diário disponível, preciso de um app padronizado, pois não quero integrar com banco de dados, ou seja, as funcionalidades devem se adaptar a todas as situações/casos possíveis.
+
+1. Objetivo do App
+O app deve funcionar como uma área de membros gamificada, com exercícios, alimentação, rotinas guiadas e conteúdos de apoio para mães em recuperação pós-parto.
+
+A proposta central é:
+Entregar um plano de restauração corporal, fortalecimento do core, redução da diástase e emagrecimento saudável em 30 dias.
+
+O app deve:
+Oferecer jornada diária (Dia 1 ao Dia 30).
+Mostrar uma frase motivacional.
+Ser simples, moderno e extremamente intuitivo.
+Ser visualmente encantador, com foco nas cores rosa, roxo e azul, tons suaves e visuais acolhedores para o público materno.
+
+2. Estrutura do App
+Tela 1 – Dashboard Gamificado
+O dashboard é o centro do app.
+Botões para acessar:
+Treinos do Dia
+Alimentação
+Diástase Tester
+Aulas Extras
+Relaxamento / Respiração
+
+Tela 2 – Plano Diário de Treinos
+Exibir:
+Vídeos curtos demonstrativos
+Instruções de prática
+Adaptações para parto normal ou cesárea
+
+Protocolos:
+LPF e hipopressivo
+Fortalecimento de core
+Mobilidade
+Postura para amamentação
+Baixo impacto para emagrecimento
+
+Tela 3 – Guia de Alimentação Pós-Parto
+Criar uma área completa com:
+Cardápios semanais
+Receitas rápidas
+Lista de compras
+Dicas para melhorar energia e disposição
+
+Tela 4 – Teste de Diástase (Interativo)
+Ferramenta onde a mãe aprende e avalia:
+Como testar a diástase
+O que significam os resultados
+Quantos “dedos” de separação ela tem
+Recomendações específicas para seu grau
+
+Tela 5 – Área de Conteúdos Extras
+Incluir:
+Vídeos educativos
+Perguntas frequentes
+Dicas de autocuidado
+Sessões de alongamento/nidra
+Aulas rápidas para aliviar dores comuns
+
+3. Identidade Visual
+O app deve ter:
+Layout 100% responsivo (mobile-first)
+Cores principais: rosa (pastel), roxo e azul
+Ícones ilustrados suaves
+Animações leves (fade, slide, microinterações)
+Estética moderna, clean e acolhedora
+Tipografia legível com sensação de leveza
+
+Inspiração de estilo:
+Aplicativos wellness + estética feminina clean + gamificação tipo Duolingo/Mindful
+
+4. Lógica
+A IA do app deve montar:
+Ordem dos treinos
+Intensidade
+Aulas recomendadas
+Protocolos adicionais
+Frequência semanal
+
+5. Requisitos Técnicos
+Interface mobile-first
+Totalmente navegável via smartphone
+Pode ser construído com frameworks modernos (React, Next.js, Flutter Web, etc.)
+Carregamento rápido
+
+6. Objetivo Final
+Criar um app que entregue uma experiência envolvente, que guie a mãe por 30 dias de forma agradável e emocionalmente recompensadora — para que ela realmente consiga recuperar o corpo, a energia e a confiança no pós-parto.
