@@ -1,0 +1,4 @@
+# Copie este arquivo para client/public/_redirects
+
+# Redireciona todas as rotas para index.html (necessario para React Router)
+/*    /index.html   200
